@@ -1,4 +1,4 @@
-Build practical workflows and standards to help data team adopt AI safely across Analytics Data Engineering
+Build practical workflows and standards to help data team adopt AI safely across Data Engineering
 
 ## Projects
 ### [Multimodal Search Pipeline](https://github.com/z83zhang/ai-data-engineering/tree/main/multimodal-search-pipeline)
