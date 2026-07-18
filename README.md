@@ -16,7 +16,8 @@ definitions, and which tables to trust. This tool answers them
 automatically — with a reflection loop that checks its own work 
 before returning a trusted result.
 
-**Tech:** Python · DuckDB · OpenAI gpt-4o · pandas
+**Tech:** Python · DuckDB · OpenAI gpt-4o · LangGraph · pandas
 
-**Status:** ✅ Core agent complete · 🚧 LangGraph refactor in progress
+**Status:** ✅ Core agent complete · ✅ LangGraph refactor complete · 
+🚧 Evaluation layer in progress
 
