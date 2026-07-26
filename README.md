@@ -18,6 +18,5 @@ before returning a trusted result.
 
 **Tech:** Python · DuckDB · OpenAI gpt-4o · LangGraph · pandas
 
-**Status:** ✅ Core agent complete · ✅ LangGraph refactor complete · 
-🚧 Evaluation layer in progress
+**Status:** ✅ Core agent complete · ✅ LangGraph refactor complete · ✅ Evaluation layer complete · 🚧 Streamlit UI in progress
 
